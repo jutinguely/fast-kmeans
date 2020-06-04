@@ -1,0 +1,540 @@
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/100_ev.txt 100
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/200_ev.txt 200
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/300_ev.txt 300
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/400_ev.txt 400
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/500_ev.txt 500
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/600_ev.txt 600
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/700_ev.txt 700
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/800_ev.txt 800
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/900_ev.txt 900
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/1000_ev.txt 1000
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/1100_ev.txt 1100
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/1200_ev.txt 1200
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/1300_ev.txt 1300
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/1400_ev.txt 1400
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/1500_ev.txt 1500
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/1600_ev.txt 1600
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/1700_ev.txt 1700
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/1800_ev.txt 1800
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/1900_ev.txt 1900
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/2000_ev.txt 2000
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/2100_ev.txt 2100
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/2200_ev.txt 2200
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/2300_ev.txt 2300
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/2400_ev.txt 2400
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/2500_ev.txt 2500
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/2600_ev.txt 2600
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/2700_ev.txt 2700
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/2800_ev.txt 2800
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/2900_ev.txt 2900
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/3000_ev.txt 3000
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/3100_ev.txt 3100
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/3200_ev.txt 3200
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/3300_ev.txt 3300
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/3400_ev.txt 3400
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/3500_ev.txt 3500
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/3600_ev.txt 3600
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/3700_ev.txt 3700
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/3800_ev.txt 3800
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/3900_ev.txt 3900
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/4000_ev.txt 4000
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/4100_ev.txt 4100
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/4200_ev.txt 4200
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/4300_ev.txt 4300
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/4400_ev.txt 4400
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/4500_ev.txt 4500
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/4600_ev.txt 4600
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/4700_ev.txt 4700
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/4800_ev.txt 4800
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/4900_ev.txt 4900
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/5000_ev.txt 5000
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/5100_ev.txt 5100
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/5200_ev.txt 5200
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/5300_ev.txt 5300
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/5400_ev.txt 5400
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/5500_ev.txt 5500
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/5600_ev.txt 5600
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/5700_ev.txt 5700
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/5800_ev.txt 5800
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/5900_ev.txt 5900
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+
+dataset /home/julien/Documents/fast-kmeans/datasets/72c_300d_growing_n_normalized/6000_ev.txt 6000
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+

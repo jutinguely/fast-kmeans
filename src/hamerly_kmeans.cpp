@@ -45,7 +45,7 @@ int HamerlyKmeans::runThread(int threadId, int maxIterations) {
     int startNdx = start(threadId);
     int endNdx = end(threadId);
 
-    while ((iterations < maxIterations) && ! converged) {
+    while ((iterations < maxIterations)) {
         ++iterations;
 
         // compute the inter-center distances, keeping only the closest distances

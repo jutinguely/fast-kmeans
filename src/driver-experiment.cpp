@@ -35,6 +35,7 @@
  * Results go to standard output, and some extra
  * status information is also sent to standard error.
  */
+#include <bits/stdc++.h>
 
 #include "dataset.h"
 #include "general_functions.h"
@@ -58,7 +59,8 @@
 #include <unistd.h>
 #include <cstdlib>
 
-void execute(std::string command, Kmeans *algorithm, Dataset const *x, unsigned short k, unsigned short const *assignment,
+
+void execute(std::ofstream &file, std::string command, Kmeans *algorithm, Dataset const *x, unsigned short k, unsigned short const *assignment,
         unsigned short *outAssignment, Dataset *outCenters,
         int xcNdx, int numThreads, int maxIterations,
         std::vector<int> *numItersHistory
@@ -68,6 +70,11 @@ void execute(std::string command, Kmeans *algorithm, Dataset const *x, unsigned 
         );
 
 int main(int argc, char **argv) {
+
+    // CHANGE OUTPUT FILE NAME
+    std::ofstream myfile;
+    myfile.open("result_72c_grown.txt");
+
     // The set of data points; the set of centers
     Dataset *x = NULL;
     unsigned short *assignment = NULL;
@@ -104,6 +111,12 @@ int main(int argc, char **argv) {
 
     // Read the command file
     for (std::string command; std::cin >> command; ) {
+        // Read the parameters
+        int n, d;
+        //input >> d;
+        // CHANGE NUMBER
+        n=2500;
+
         if (command == "threads") {
             std::cin >> numThreads;
             #ifndef USE_THREADS
@@ -122,8 +135,11 @@ int main(int argc, char **argv) {
 
             // Get the file name
             std::string dataFileName;
-            std::cin >> dataFileName;
-
+            // CHANGE d=k
+            //std::cin >> dataFileName >> d;
+            std::cin >> dataFileName >> n;
+            //d = 8;
+            d=72;
             // Open the data file
             std::ifstream input(dataFileName.c_str());
             if (! input) {
@@ -131,9 +147,6 @@ int main(int argc, char **argv) {
                 continue;
             }
 
-            // Read the parameters
-            int n, d;
-            input >> n >> d;
 
             // Allocate storage
             delete x;
@@ -161,6 +174,7 @@ int main(int argc, char **argv) {
             // Read in the number of means and the initialization method
             std::string method;
             std::cin >> k >> method;
+            d=k;
 
             // Determine the chosen method
             Dataset *c = NULL;
@@ -281,7 +295,7 @@ int main(int argc, char **argv) {
         }
 
         if (algorithm) {
-            execute(command, algorithm, x, k, assignment, 
+            execute(myfile, command, algorithm, x, k, assignment,
                     outAssignment, outCenters,
                     xcNdx, numThreads, maxIterations, &numItersHistory
                     #ifdef MONITOR_ACCURACY
@@ -292,14 +306,15 @@ int main(int argc, char **argv) {
             algorithm = NULL;
         }
     }
-
+    // CHANGE CLOSE FILE
+    myfile.close();
     delete x;
     delete [] assignment;
 
     return 0;
 }
 
-void execute(std::string command, Kmeans *algorithm, Dataset const *x, unsigned short k, unsigned short const *assignment,
+void execute(std::ofstream &file, std::string command, Kmeans *algorithm, Dataset const *x, unsigned short k, unsigned short const *assignment,
         unsigned short *outAssignment, Dataset *outCenters,
         int xcNdx,
         int numThreads,
@@ -309,6 +324,7 @@ void execute(std::string command, Kmeans *algorithm, Dataset const *x, unsigned 
         , std::vector<double> *sseHistory
         #endif
         ) {
+
     // Check for missing initialization
     if (assignment == NULL) {
         std::cerr << "initialize centers first!" << std::endl;
@@ -333,26 +349,35 @@ void execute(std::string command, Kmeans *algorithm, Dataset const *x, unsigned 
     // Make a working copy of the set of centers
     unsigned short *workingAssignment = outAssignment ? outAssignment : new unsigned short[x->n];
     std::copy(assignment, assignment + x->n, workingAssignment);
+    int iterations;
+    int median = 1;
+    double measure[3];
+    for (int i = 0; i < 3; i++) {
+        // Time the execution and get the number of iterations
+        rusage start_clustering_time = get_time();
+        //double start_clustering_wall_time = get_wall_time();
+        algorithm->initialize(x, k, workingAssignment, numThreads);
+        iterations = algorithm->run(maxIterations);
 
-    // Time the execution and get the number of iterations
-    rusage start_clustering_time = get_time();
-    double start_clustering_wall_time = get_wall_time();
-    algorithm->initialize(x, k, workingAssignment, numThreads);
-    int iterations = algorithm->run(maxIterations);
+        if (outCenters) {
+            // try to grab the centers, if they exist
+            Dataset const *ctrs = algorithm->getCenters();
+            if (ctrs)
+                *outCenters = *ctrs;
+        }
 
-    if (outCenters) {
-        // try to grab the centers, if they exist
-        Dataset const *ctrs = algorithm->getCenters();
-        if (ctrs)
-            *outCenters = *ctrs;
+#ifdef COUNT_DISTANCES
+        long long numDistances = algorithm->numDistances;
+#endif
+        measure[i] = elapsed_time(&start_clustering_time);
+        // double cluster_wall_time = get_wall_time() - start_clustering_wall_time;
     }
-
-    #ifdef COUNT_DISTANCES
-    long long numDistances = algorithm->numDistances;
-    #endif
-    double cluster_time = elapsed_time(&start_clustering_time);
-    double cluster_wall_time = get_wall_time() - start_clustering_wall_time;
-
+    std::sort(measure, measure+3);
+    double cluster_time = measure[median];
+    double cluster_wall_time = measure[median];
+    // CHANGE VARIABLE
+    //file << k << " " << cluster_time << "\n";
+    file << x->n << " " << cluster_time << "\n";
     // Report results
     std::cout << std::setw(5) << iterations << "\t";
     std::cout << std::setw(10) << numThreads << "\t";

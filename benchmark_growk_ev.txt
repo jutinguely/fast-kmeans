@@ -1,0 +1,784 @@
+dataset datasets/2d_2500n_growing_k/2_ev.txt 2
+
+maxiterations 1000
+
+initialize 2 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/3_ev.txt 3
+
+maxiterations 1000
+
+initialize 3 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/4_ev.txt 4
+
+maxiterations 1000
+
+initialize 4 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/5_ev.txt 5
+
+maxiterations 1000
+
+initialize 5 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/6_ev.txt 6
+
+maxiterations 1000
+
+initialize 6 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/7_ev.txt 7
+
+maxiterations 1000
+
+initialize 7 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/8_ev.txt 8
+
+maxiterations 1000
+
+initialize 8 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/9_ev.txt 9
+
+maxiterations 1000
+
+initialize 9 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/10_ev.txt 10
+
+maxiterations 1000
+
+initialize 10 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/11_ev.txt 11
+
+maxiterations 1000
+
+initialize 11 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/12_ev.txt 12
+
+maxiterations 1000
+
+initialize 12 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/13_ev.txt 13
+
+maxiterations 1000
+
+initialize 13 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/14_ev.txt 14
+
+maxiterations 1000
+
+initialize 14 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/15_ev.txt 15
+
+maxiterations 1000
+
+initialize 15 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/16_ev.txt 16
+
+maxiterations 1000
+
+initialize 16 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/17_ev.txt 17
+
+maxiterations 1000
+
+initialize 17 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/18_ev.txt 18
+
+maxiterations 1000
+
+initialize 18 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/19_ev.txt 19
+
+maxiterations 1000
+
+initialize 19 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/20_ev.txt 20
+
+maxiterations 1000
+
+initialize 20 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/21_ev.txt 21
+
+maxiterations 1000
+
+initialize 21 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/22_ev.txt 22
+
+maxiterations 1000
+
+initialize 22 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/23_ev.txt 23
+
+maxiterations 1000
+
+initialize 23 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/24_ev.txt 24
+
+maxiterations 1000
+
+initialize 24 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/25_ev.txt 25
+
+maxiterations 1000
+
+initialize 25 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/26_ev.txt 26
+
+maxiterations 1000
+
+initialize 26 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/27_ev.txt 27
+
+maxiterations 1000
+
+initialize 27 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/28_ev.txt 28
+
+maxiterations 1000
+
+initialize 28 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/29_ev.txt 29
+
+maxiterations 1000
+
+initialize 29 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/30_ev.txt 30
+
+maxiterations 1000
+
+initialize 30 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/31_ev.txt 31
+
+maxiterations 1000
+
+initialize 31 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/32_ev.txt 32
+
+maxiterations 1000
+
+initialize 32 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/33_ev.txt 33
+
+maxiterations 1000
+
+initialize 33 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/34_ev.txt 34
+
+maxiterations 1000
+
+initialize 34 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/35_ev.txt 35
+
+maxiterations 1000
+
+initialize 35 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/36_ev.txt 36
+
+maxiterations 1000
+
+initialize 36 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/37_ev.txt 37
+
+maxiterations 1000
+
+initialize 37 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/38_ev.txt 38
+
+maxiterations 1000
+
+initialize 38 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/39_ev.txt 39
+
+maxiterations 1000
+
+initialize 39 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/40_ev.txt 40
+
+maxiterations 1000
+
+initialize 40 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/41_ev.txt 41
+
+maxiterations 1000
+
+initialize 41 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/42_ev.txt 42
+
+maxiterations 1000
+
+initialize 42 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/43_ev.txt 43
+
+maxiterations 1000
+
+initialize 43 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/44_ev.txt 44
+
+maxiterations 1000
+
+initialize 44 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/45_ev.txt 45
+
+maxiterations 1000
+
+initialize 45 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/46_ev.txt 46
+
+maxiterations 1000
+
+initialize 46 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/47_ev.txt 47
+
+maxiterations 1000
+
+initialize 47 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/48_ev.txt 48
+
+maxiterations 1000
+
+initialize 48 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/49_ev.txt 49
+
+maxiterations 1000
+
+initialize 49 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/50_ev.txt 50
+
+maxiterations 1000
+
+initialize 50 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/51_ev.txt 51
+
+maxiterations 1000
+
+initialize 51 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/52_ev.txt 52
+
+maxiterations 1000
+
+initialize 52 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/53_ev.txt 53
+
+maxiterations 1000
+
+initialize 53 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/54_ev.txt 54
+
+maxiterations 1000
+
+initialize 54 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/55_ev.txt 55
+
+maxiterations 1000
+
+initialize 55 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/56_ev.txt 56
+
+maxiterations 1000
+
+initialize 56 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/57_ev.txt 57
+
+maxiterations 1000
+
+initialize 57 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/58_ev.txt 58
+
+maxiterations 1000
+
+initialize 58 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/59_ev.txt 59
+
+maxiterations 1000
+
+initialize 59 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/60_ev.txt 60
+
+maxiterations 1000
+
+initialize 60 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/61_ev.txt 61
+
+maxiterations 1000
+
+initialize 61 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/62_ev.txt 62
+
+maxiterations 1000
+
+initialize 62 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/63_ev.txt 63
+
+maxiterations 1000
+
+initialize 63 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/64_ev.txt 64
+
+maxiterations 1000
+
+initialize 64 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/65_ev.txt 65
+
+maxiterations 1000
+
+initialize 65 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/66_ev.txt 66
+
+maxiterations 1000
+
+initialize 66 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/67_ev.txt 67
+
+maxiterations 1000
+
+initialize 67 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/68_ev.txt 68
+
+maxiterations 1000
+
+initialize 68 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/69_ev.txt 69
+
+maxiterations 1000
+
+initialize 69 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/70_ev.txt 70
+
+maxiterations 1000
+
+initialize 70 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/71_ev.txt 71
+
+maxiterations 1000
+
+initialize 71 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/72_ev.txt 72
+
+maxiterations 1000
+
+initialize 72 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/73_ev.txt 73
+
+maxiterations 1000
+
+initialize 73 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/74_ev.txt 74
+
+maxiterations 1000
+
+initialize 74 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/75_ev.txt 75
+
+maxiterations 1000
+
+initialize 75 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/76_ev.txt 76
+
+maxiterations 1000
+
+initialize 76 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/77_ev.txt 77
+
+maxiterations 1000
+
+initialize 77 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/78_ev.txt 78
+
+maxiterations 1000
+
+initialize 78 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/79_ev.txt 79
+
+maxiterations 1000
+
+initialize 79 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/80_ev.txt 80
+
+maxiterations 1000
+
+initialize 80 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/81_ev.txt 81
+
+maxiterations 1000
+
+initialize 81 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/82_ev.txt 82
+
+maxiterations 1000
+
+initialize 82 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/83_ev.txt 83
+
+maxiterations 1000
+
+initialize 83 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/84_ev.txt 84
+
+maxiterations 1000
+
+initialize 84 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/85_ev.txt 85
+
+maxiterations 1000
+
+initialize 85 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/86_ev.txt 86
+
+maxiterations 1000
+
+initialize 86 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/87_ev.txt 87
+
+maxiterations 1000
+
+initialize 87 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/88_ev.txt 88
+
+maxiterations 1000
+
+initialize 88 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/89_ev.txt 89
+
+maxiterations 1000
+
+initialize 89 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/90_ev.txt 90
+
+maxiterations 1000
+
+initialize 90 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/91_ev.txt 91
+
+maxiterations 1000
+
+initialize 91 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/92_ev.txt 92
+
+maxiterations 1000
+
+initialize 92 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/93_ev.txt 93
+
+maxiterations 1000
+
+initialize 93 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/94_ev.txt 94
+
+maxiterations 1000
+
+initialize 94 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/95_ev.txt 95
+
+maxiterations 1000
+
+initialize 95 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/96_ev.txt 96
+
+maxiterations 1000
+
+initialize 96 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/97_ev.txt 97
+
+maxiterations 1000
+
+initialize 97 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/98_ev.txt 98
+
+maxiterations 1000
+
+initialize 98 kpp
+
+threads 1
+hamerly
+dataset datasets/2d_2500n_growing_k/99_ev.txt 99
+
+maxiterations 1000
+
+initialize 99 kpp
+
+threads 1
+hamerly
